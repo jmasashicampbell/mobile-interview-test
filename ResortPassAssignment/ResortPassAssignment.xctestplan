@@ -1,0 +1,38 @@
+{
+  "configurations" : [
+    {
+      "id" : "A1B2C3D4-0000-4000-A000-000000000001",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:ResortPassAssignment.xcodeproj",
+        "identifier" : "B0F2EBE03011A5C700D61973",
+        "name" : "ResortPassAssignmentTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:Packages\/ResortPassKit",
+        "identifier" : "ResortPassKitTests",
+        "name" : "ResortPassKitTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:Packages\/ResortPassUI",
+        "identifier" : "ResortPassUITests",
+        "name" : "ResortPassUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

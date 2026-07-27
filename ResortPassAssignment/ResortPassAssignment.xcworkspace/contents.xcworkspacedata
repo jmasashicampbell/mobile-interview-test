@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:ResortPassAssignment.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Packages/ResortPassKit">
+   </FileRef>
+   <FileRef
+      location = "group:Packages/ResortPassUI">
+   </FileRef>
+</Workspace>
